@@ -7,11 +7,12 @@ NAVER LABS Europe
 
 **ECCV 2024**
 
+[[Paper](https://arxiv.org/abs/2408.05088)] · [[Citation](#citation)]
+
 ![Model Diagram](assets/unic-model-figure.png)
 
----
-
 </div>
+
 
 - [Installation](#installation)
   - [Conda environment](#conda-environment)
@@ -25,7 +26,6 @@ NAVER LABS Europe
   - [Transfer learning tasks](#transfer-learning-tasks)
   - [Dense prediction tasks](#dense-prediction-tasks)
     - [Semantic segmentation on ADE20K](#semantic-segmentation-on-ade20k)
-- [Citation](#citation)
 
 # Installation
 
