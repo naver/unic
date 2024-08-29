@@ -269,7 +269,7 @@ If you find this repository useful, please consider citing us:
 
 ```LaTeX
 @inproceedings{sariyildiz2024unic,
-    title={UNIC: Universal Classification Models via Multi-teacher Distillation},
+    title={{UNIC}: Universal Classification Models via Multi-teacher Distillation},
     author={Sariyildiz, Mert Bulent and Weinzaepfel, Philippe and Lucas, Thomas and Larlus, Diane and Kalantidis, Yannis},
     booktitle={European Conference on Computer Vision (ECCV)},
     year={2024},
